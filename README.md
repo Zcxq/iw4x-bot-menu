@@ -2,6 +2,11 @@
 A Simple iw4x bot menu made by itsSpideyMods#1581, all credit goes to him and this is just a repost, all help and info is included in the .zip !
 
 
+
+![image](https://user-images.githubusercontent.com/100650037/174434471-70d79d8a-64b2-4d11-a788-f673dae5e754.png)
+# [SpideyMods Made and OWNS The source, DO NOT TRY AND CLAIM IT AS YOUR OWN, DO NOT ATTEMPT TO RESELL THIS](https://www.discord.gg/8SEnBvebVt)
+
+
 # ➯ Links:
 🔵 [Discord](https://discord.gg/8SEnBvebVt)
 🟣 [Twitch](https://twitch.tv/Hairokashi)
@@ -10,11 +15,15 @@ A Simple iw4x bot menu made by itsSpideyMods#1581, all credit goes to him and th
 
 # ➯ Other Projects:
 ⭕ FREE MW2 Offhost + Host
-⭕ Steam Achievment Manager
+
 ⭕ Zonetool iW4x Source (Repost)
+
 ⭕ MW2 RCE Tool (The old one)
+
 ⭕ Just Redbox MW2
+
 ⭕ Kiddions GTAV Menu (Repost)
+
 ⭕ iW4x Bot Menu (Repost)
 
 
